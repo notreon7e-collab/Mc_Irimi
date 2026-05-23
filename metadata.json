@@ -1,0 +1,6 @@
+{
+  "name": "NexusMarket",
+  "description": "The premium marketplace to buy and sell verified MLBB accounts with 100% Escrow Protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
